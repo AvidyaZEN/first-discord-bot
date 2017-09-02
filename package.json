@@ -1,0 +1,28 @@
+{
+  "name": "first-discord-bot",
+  "version": "1.0.0",
+  "description": "my first discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvidyaZEN/first-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "javascript",
+    "bot"
+  ],
+  "author": "AvidyaZEN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AvidyaZEN/first-discord-bot/issues"
+  },
+  "homepage": "https://github.com/AvidyaZEN/first-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  },
+  "devDependencies": {}
+}
